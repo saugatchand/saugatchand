@@ -14,5 +14,3 @@ I'm currently pursuing a BSc.IT at Presidential Graduate School and learning pro
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### GitHub Stats:
-![Saugat's GitHub stats](https://github-readme-stats.vercel.app/api?username=saugat&show_icons=true&theme=radical)
