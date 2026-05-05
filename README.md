@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Saugat Chand
+# Hi there, I'm Saugat Chand
 
 I'm currently pursuing a BSc.IT at Presidential Graduate School and learning programming from the basics. I also have a passion for social media content creation.
 
