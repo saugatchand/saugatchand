@@ -8,7 +8,18 @@ I'm currently pursuing a BSc.IT at Presidential Graduate School and learning pro
 - Ask me about: **Content creation tips and programming basics**
 - How to reach me: **saugatchand96@gmail.com**
 - Fun fact: **I enjoy combining tech and creativity to solve real-world problems**
-### My Skills & Tools:
-HTML, CSS, JavaScript
+### My Skills:
+Languages:
+C++ •JavaScript • TypeScript • HTML • CSS
+
+Frontend:
+React • Next.js • Tailwind CSS 
+
+Backend
+Node.js • Express.js • REST API
+
+🗄️ Database
+MongoDB • Firebase
+
 
 
