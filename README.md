@@ -10,16 +10,13 @@ I'm currently pursuing a BSc.IT at Presidential Graduate School and learning pro
 - Fun fact: **I enjoy combining tech and creativity to solve real-world problems**
 ### My Skills:
 Languages:
-C++ •JavaScript • TypeScript • HTML • CSS
+JavaScript, TypeScript, HTML, CSS
 
 Frontend:
-React • Next.js • Tailwind CSS 
+React, Next.js, Tailwind CSS 
 
-Backend
-Node.js • Express.js • REST API
+Backend:
+Node.js, Express.js & REST API
 
-Database
-MongoDB • Firebase
-
-
-
+Database:
+MongoDB & Firebase
