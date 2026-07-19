@@ -1,10 +1,10 @@
 <!-- ========================== HERO ========================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Saugat%20Chand&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Nepal&descAlignY=63"/>
+  <img src="./github-banner.png" width="100%" alt="Saugat Chand Banner">
 </p>
 
-<h1 align="center">Hi 👋 I'm Saugat Chand</h1>
+<h1 align="center">## Full Stack Developer • AI Enthusiast • Nepal 🇳🇵</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Hackathon+Winner+🏆;Open+Source+Learner;Building+Technology+That+Matters" />
