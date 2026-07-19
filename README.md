@@ -18,7 +18,7 @@ React • Next.js • Tailwind CSS
 Backend
 Node.js • Express.js • REST API
 
-🗄️ Database
+Database
 MongoDB • Firebase
 
 
