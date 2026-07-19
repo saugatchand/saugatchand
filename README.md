@@ -107,7 +107,7 @@ Hospitality & Heritage Challenge Track
 
 <p align="center">
 
-###  *"Code • Learn • Build • Repeat."*
+###  *" Code • Learn • Build • Repeat."*
 
 </p>
 
