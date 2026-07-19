@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋 I'm Saugat Chand</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Enthusiast;Hackathon+Winner+🏆;Open+Source+Contributor;Building+Technology+That+Creates+Impact." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Enthusiast;JunctionX+Kathmandu+2026+Winner+🏆;Building+Software+That+Creates+Impact;Always+Learning.+Always+Building." />
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ Hospitality & Heritage Challenge Track
 
 <p align="center">
 
-### *" Code • Learn • Build • Repeat."*
+### 💙 *"Code • Learn • Build • Repeat."*
 
 </p>
 
