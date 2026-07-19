@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋 I'm Saugat Chand</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Hackathon+Winner+🏆;Open+Source+Learner;Building+Technology+That+Matters" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Enthusiast;Hackathon+Winner+🏆;Open+Source+Contributor;Building+Technology+That+Creates+Impact." />
 </p>
 
 <p align="center">
