@@ -1,101 +1,116 @@
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Saugat Chand
-</h1>
-
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 🏆 Hackathon Winner</h3>
+<!-- ========================== HERO ========================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Learning+.NET+%7C+AI+%7C+Cloud;Always+Building+Cool+Projects;Open+Source+Learner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Saugat%20Chand&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Nepal&descAlignY=63"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Welcome%20to%20My%20Profile&fontSize=40&animation=fadeIn"/>
+<h1 align="center">Hi 👋 I'm Saugat Chand</h1>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 BSc IT Student
-- 💻 Passionate about Full Stack Development
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌱 Currently learning **.NET, Next.js & Cloud**
-- 🏆 Winner – JunctionX Kathmandu 2026
-- 🚀 I enjoy building useful applications and learning new technologies.
-
----
-
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Hackathon+Winner+🏆;Open+Source+Learner;Building+Technology+That+Matters" />
+</p>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,dotnet,tailwind,git,github,vscode,figma" />
+<a href="https://github.com/saugatchand">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saugat-chand-b684462b8/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:saugatchand96@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 💫 About Me
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+```yaml
+Name: Saugat Chand
 
----
+Location:
+  Kathmandu, Nepal 🇳🇵
 
-## 🔥 GitHub Streak
+Education:
+  Bachelor of Science in Information Technology
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+Interests:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Cloud Computing
+  - Open Source
 
----
+Achievement:
+  🏆 Winner — JunctionX Kathmandu 2026
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-> Enable GitHub Actions first, then replace `YOUR_USERNAME`.
-
-```text
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg
+Vision:
+  Build software that creates real-world impact.
 ```
 
 ---
 
-## 🌐 Connect With Me
+# ⚡ Tech Stack
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,dotnet,python,tailwind,firebase,git,github,vscode,figma,linux"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Project | Machine Learning & AI Applications |
+| 💼 Portfolio Website | Personal Portfolio |
+| 🌐 Full Stack Project | Next.js + Node.js |
+| 📄 CV Generator | Resume Builder |
+| 📱 IoT Project | Smart Solutions |
+| 🏆 JunctionX Project | Winning Hackathon Project |
+
+---
+
+# 🏆 Achievement
+
+🥇 **Winner — JunctionX Kathmandu 2026**
+
+Hospitality & Heritage Challenge Track
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/saugatchand">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://www.linkedin.com/in/saugat-chand-b684462b8/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="mailto:saugatchand96@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge"/>
+
+### *" Code • Learn • Build • Repeat."*
+
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
+</p>
