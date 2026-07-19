@@ -4,7 +4,7 @@
   <img src="./github-banner.png" width="100%" alt="Saugat Chand Banner">
 </p>
 
-<h1 align="center">## Full Stack Developer • AI Enthusiast • Nepal 🇳🇵</h1>
+<h1 align="center"> Full Stack Developer • AI Enthusiast • Nepal 🇳🇵</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Hackathon+Winner+🏆;Open+Source+Learner;Building+Technology+That+Matters" />
