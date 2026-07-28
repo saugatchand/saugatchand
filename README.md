@@ -43,9 +43,6 @@ Interests:
   - Cloud Computing
   - Open Source
 
-Achievement:
-  🏆 Winner — JunctionX Kathmandu 2026
-
 Vision:
   Build software that creates real-world impact.
 ```
